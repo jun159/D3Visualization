@@ -8,6 +8,7 @@ statistics with the help of graphs and charts.
 
 ## Heat Map
 <img align="left" src="https://github.com/jun159/D3Visualization/blob/master/img/heatmap.png" width="500">
+</br>
 
 ## Pie Chart
-<img align="left" src="https://github.com/jun159/D3Visualization/blob/master/img/piechart.png" width="500">
+<img align="left" src="https://github.com/jun159/D3Visualization/blob/master/img/piechart.png" width="300">
