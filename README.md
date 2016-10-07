@@ -11,8 +11,6 @@ statistics with the help of graphs and charts.
 </br>
 </br>
 </br>
-</br>
-</br>
 
 ## Pie Chart
-<img align="center" src="https://github.com/jun159/D3Visualization/blob/master/img/piechart.png" width="300">
+<img align="center" src="https://github.com/jun159/D3Visualization/blob/master/img/piechart.png" width="400">
