@@ -7,8 +7,12 @@ a repository easily. With the use of visualization tool D3, we are able to showc
 statistics with the help of graphs and charts.
 
 ## Heat Map
-<img align="left" src="https://github.com/jun159/D3Visualization/blob/master/img/heatmap.png" width="500">
+<img align="center" src="https://github.com/jun159/D3Visualization/blob/master/img/heatmap.png" width="500">
+</br>
+</br>
+</br>
+</br>
 </br>
 
 ## Pie Chart
-<img align="left" src="https://github.com/jun159/D3Visualization/blob/master/img/piechart.png" width="300">
+<img align="center" src="https://github.com/jun159/D3Visualization/blob/master/img/piechart.png" width="300">
